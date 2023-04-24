@@ -1,2 +1,2 @@
-# -Introduction-to-Automated-Analysis
+# Introduction-to-Automated-Analysis
 Coursera
